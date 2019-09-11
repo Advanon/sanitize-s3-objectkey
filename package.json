@@ -27,7 +27,5 @@
     "eslint": "^6.3.0",
     "jest": "^24.9.0"
   },
-  "dependencies": {
-    "s3-filename": "^1.0.0"
-  }
+  "dependencies": {}
 }
