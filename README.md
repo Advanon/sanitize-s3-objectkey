@@ -19,7 +19,7 @@ npm install sanitize-s3-objectkey
 
 ## Usage
 ```js
-const sanitize = require('sanitize-s3-objectkey')
+const sanitize = require('sanitize-s3-objectkey');
 
 sanitize('áêīòü'); // aeiou
 sanitize('pipes|are|not|valid'); // pipesarenotvalid
