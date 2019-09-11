@@ -4,7 +4,8 @@
   "description": "Remove and replace illegal characters in S3 Object Keys",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
